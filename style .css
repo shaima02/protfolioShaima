@@ -1,0 +1,22 @@
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p {
+    font-family: Courier;
+}
+li {
+    font-family: Courier;
+}
+nav section div ul li a {
+    display: inline;
+    margin: 29px;
+}
+ul li a {
+    display: inline;
+    margin: 29px;
+}
+ul li {
+    display: inline;
+    text-align: center;
+}
